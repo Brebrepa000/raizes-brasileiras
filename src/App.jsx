@@ -1,12 +1,19 @@
-import './index.css';
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
+import { HomePage } from "./pages/Home"
+
 
 const App = () => {
   return (
-    <div>
-      <h1 id='titulo'>
-        Raízes brasileiras
-      </h1>
-    </div>
+    <BrowserRouter>
+      <Routes >
+        <Route path="/" element={<HomePage />} />
+        <Route path="/cadastro" element={<HomePage />} />
+      </Routes>
+    </BrowserRouter>
   )
 }
 
