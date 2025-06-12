@@ -17,13 +17,10 @@
     font-size: 40px;
 }
 
-#sobre {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 2px 2px 5px red;
-    font-size: 20px;
+
+
+.importante {
+    color: ;
 }
 
 body {
