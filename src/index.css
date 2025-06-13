@@ -8,25 +8,12 @@
     box-sizing: none;
 }
 
-#titulo {
-    color: rgb(25, 107, 32);
-    display: flex;
-    justify-content: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 2px 2px 5px red;
-    font-size: 40px;
-}
-
-#sobre {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 2px 2px 5px red;
-    font-size: 20px;
+body {
+    background-image: url('./imagens/floresta.jpg');
+    background-repeat: no-repeat;
 }
 
 body {
-    background-image: url('./imagens/floresta.jpg');
+    background-image: url('./imagens/QuadroSelva.png');
     background-repeat: no-repeat;
 }
