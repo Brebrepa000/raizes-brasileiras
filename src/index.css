@@ -7,14 +7,8 @@
     padding: 0;
     box-sizing: none;
 }
-<<<<<<< HEAD
 #titulo {
     color: rgb(25, 107, 32);
-=======
-
-.titulo {
-    color: rgb(21, 97, 29);
->>>>>>> 31db25a0f4d80fb069d17162a0afce285ab9a3e9
     display: flex;
     justify-content: center;
 
