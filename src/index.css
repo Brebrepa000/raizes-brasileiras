@@ -8,8 +8,8 @@
     box-sizing: none;
 }
 
-.titulo {
-    color: rgb(21, 97, 29);
+#titulo {
+    color: rgb(25, 107, 32);
     display: flex;
     justify-content: center;
 
@@ -20,7 +20,7 @@
 
 
 .importante {
-    text-shadow: 2px 2px 5px rgb(116, 25, 25) ;
+    text-shadow: 2px 2px 5px rgb(116, 25, 25);
 }
 
 .p1 {
@@ -42,10 +42,12 @@ h2 {
 
 body {
     background-image: url('./imagens/floresta.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
 }
 
 .centralizar {
@@ -57,7 +59,7 @@ body {
 .borda {
     border: solid 2px;
     border-radius: 30%;
-    
+
 }
 
 .borda2 {
