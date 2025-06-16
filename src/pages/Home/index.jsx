@@ -17,7 +17,7 @@ export const HomePage = () => {
           A ideia é guardar essas narrativas, entender de onde elas vêm e mostrar o que o povo sente e pensa sobre elas, tanto quem viveu quanto quem só ouviu falar. Não importa se você só gosta de saber, se pesquisa ou se tem algo para contar: sinta-se em casa.
         </p>
 </div>
-        <p>Olá, mundo!</p>
+
       </main>
       <Footer />
     </div>

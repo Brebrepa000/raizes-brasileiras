@@ -32,7 +32,40 @@
     background-color: o black;
 }
 
+.sombra {
+    text-shadow: 2px 2px 5px black;
+}
+
+h2 {
+    margin: 20px;
+}
+
 body {
     background-image: url('./imagens/floresta.jpg');
-    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.centralizar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.borda {
+    border: solid 2px;
+    border-radius: 30%;
+    
+}
+
+.borda2 {
+    border: solid 2px rgb(145, 37, 37);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(27, 99, 24);
+}
+
+.p2 {
+    margin: 20px;
 }
