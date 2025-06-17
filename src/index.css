@@ -8,7 +8,7 @@
     box-sizing: none;
 }
 
-#titulo {
+.titulo {
     color: rgb(25, 107, 32);
     display: flex;
     justify-content: center;
