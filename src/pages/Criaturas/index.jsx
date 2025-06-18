@@ -36,7 +36,7 @@ Atitudes: atua como protetor das florestas e dos animais, punindo caçadores cru
 Habilidades: além de correr rapidamente, deixa rastros invertidos para despistar perseguidores. Diz-se que tem poderes mágicos, como criar ilusões na mata, manipular sons e controlar animais silvestres. <br />
 
 Nascimento e raízes: é uma criatura das lendas indígenas brasileiras, especialmente das regiões amazónicas, com forte presença em culturas tupi-guarani. É considerado um dos primeiros seres do folclore a representar a ligação sagrada entre o homem e a natureza.</p>
-<h2 className="text-red-900 sombra text-5xl">Caipora</h2>
+<h2 className="text-red-900 sombra text-5xl font-serif">Caipora</h2>
 <img src="https://i.pinimg.com/736x/fa/00/98/fa0098843bea46a4a4e9673980172adb.jpg" alt="" width="350" className="borda" />
 <p className="p2 text-center text-white sombra text-lg">Características físicas: geralmente representada como uma figura pequena e indígena, de pele escura, corpo coberto de pelos ou nua, com cabelos longos e negros. Costuma montar um porco-do-mato (cateto) e às vezes fuma um cachimbo. <br />
 
@@ -47,6 +47,15 @@ Habilidades: tem poderes mágicos, como ficar invisível, criar ilusões e imita
 Nascimento e raízes: vem das crenças tupi-guarani e é uma figura típica do folclore do Norte e Nordeste do Brasil, muitas vezes confundida ou relacionada com o Curupira. O nome “Caipora” vem do tupi caá-porá, que significa “habitante do mato”.
 
 </p>
+<h2 className="text-pink-400 text-5xl sombra font-serif">Boto-cor-de-rosa</h2>
+<img url="./imagens/Boto.jpg" alt="" />
+<p className="p2 text-center text-white sombra text-lg">Características físicas: é um golfinho de água doce (boto-vermelho) da Amazónia, mas nas lendas, transforma-se num homem bonito, alto, de roupas brancas e chapéu, que esconde o topo da cabeça para disfarçar o buraco do respiradouro do boto.
+
+Atitudes: aparece em festas e bailes ribeirinhos, seduz as moças com seu charme e desaparece misteriosamente antes do amanhecer. É conhecido por engravidar mulheres e depois voltar para o rio. Muitas vezes, filhos de pais desconhecidos são ditos "filhos do boto".
+
+Habilidades: possui o poder de se transformar entre boto e homem, hipnotizar com o olhar e causar confusão amorosa. É também astuto e difícil de capturar ou desmascarar.
+
+Nascimento e raízes: origem na região amazónica, especialmente no Norte do Brasil, mistura tradições indígenas com influências populares. A lenda surgiu como forma de explicar gravidezes fora do casamento e reforçar certos tabus sociais.</p>
                 </div>
             </main>
         </div>
