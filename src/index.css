@@ -40,18 +40,8 @@ h2 {
     margin: 20px;
 }
 
-.body {
+body {
     background-image: url('./imagens/floresta.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-
-}
-
-.body2 {
-    background-image: url('./imagens/QuadroSelva.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

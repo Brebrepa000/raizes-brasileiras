@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { Footer } from "../../components/Footer";
 
 export const HomePage = () => {
@@ -28,12 +29,20 @@ export const HomePage = () => {
           </p>
         </div>
 
+        <div className="text-green-700 flex justify-center text-1xl importante font-poppins">
+          <h4>
+          Curiosidades rápidas
+          </h4>
+        </div>
+
         <div className="flex justify-center mt-8">
           <button
             className="bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors"
             type="button"
           >
-            Entrar
+            <Link to='/login'>
+              Entrar
+            </Link>
           </button>
         </div>
       </main>

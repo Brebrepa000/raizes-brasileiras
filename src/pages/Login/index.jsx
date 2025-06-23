@@ -1,5 +1,5 @@
 
-export const SignUpPage = () => {
+export const SignInPage = () => {
   return (
     <div
       className="./imagens/QuadroSelva.png"
