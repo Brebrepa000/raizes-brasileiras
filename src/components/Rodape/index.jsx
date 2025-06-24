@@ -6,7 +6,7 @@ const curiosidades = [
     "A Cuca vem do folclore português medieval.",
     "O Homem do Saco aparece em várias culturas.",
 ]
-function footer() {
+export function Rodape() {
     return (
         <footer className="bg-black text-white p-4 mt-10">
             <h3 className="text-lg font-semibold mb-2">Curiosidades</h3>
@@ -18,5 +18,3 @@ function footer() {
         </footer>
     );
 }
-
-export default Footer;

@@ -1,9 +1,7 @@
 export const SignUpPage = () => {
   return (
     <div
-      className="./imagens/QuadroSelva.png"
-      style={{ backgroundImage: "url('./imagens/QuadroSelva.png)" }}
-    >
+      className="flex items-center h-screen w-screen justify-center  flex-col">
       <div className="max-w-md w-full space-y-8 p-8 shadow-lg rounded-xl bg-white">
         <h1
           className="text-red-900 text-3xl font-serif font-bold text-center"

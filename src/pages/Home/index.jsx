@@ -1,10 +1,20 @@
 import { Link } from "react-router-dom";
-import { Footer } from "../../components/Footer";
+import { Rodape } from "../../components/Rodape";
 
 export const HomePage = () => {
   return (
     <div>
       <header>
+        <div className="flex justify-start mt-1">
+          <button
+            className="bg-red-600 hover:bg-red-700 text-white font-semibold py-2 px-2 rounded-lg transition-colors"
+            type="button"
+          >
+            <Link to='/login'>
+              Entrar
+            </Link>
+          </button>
+        </div>
         <h1 className="font-poppins titulo">Raízes brasileiras</h1>
       </header>
       <main>
@@ -34,17 +44,10 @@ export const HomePage = () => {
           Curiosidades rápidas
           </h4>
         </div>
-
-        <div className="flex justify-center mt-8">
-          <button
-            className="bg-red-600 hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors"
-            type="button"
-          >
-            <Link to='/login'>
-              Entrar
-            </Link>
-          </button>
+        <div className="min-h-screen flex flex-col justify-between">
+        <Rodape />
         </div>
+        
       </main>
     </div>
   );
