@@ -3,7 +3,6 @@ export const SignInPage = () => {
   return (
     <div
       className="flex items-center h-screen w-screen justify-center  flex-col"
-      style={{ backgroundImage: "url('./imagens/QuadroSelva.png)" }}
     >
       <div className="max-w-md w-full space-y-8 p-8 shadow-lg rounded-xl bg-white items-center">
         <h1

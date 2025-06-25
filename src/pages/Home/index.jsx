@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { Rodape } from "../../components/Rodape";
 
 export const HomePage = () => {
   return (
@@ -37,15 +36,6 @@ export const HomePage = () => {
             quanto quem só ouviu falar. Não importa se você só gosta de saber,
             se pesquisa ou se tem algo para contar: sinta-se em casa.
           </p>
-        </div>
-
-        <div className="text-green-700 flex justify-center text-1xl importante font-poppins">
-          <h4>
-          Curiosidades rápidas
-          </h4>
-        </div>
-        <div className="min-h-screen flex flex-col justify-between">
-        <Rodape />
         </div>
         
       </main>
